@@ -52,6 +52,15 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				'portfolio': {
+					'nav-bg': 'hsl(var(--nav-bg))',
+					'section-bg': 'hsl(var(--section-bg))',
+					'project-card': 'hsl(var(--project-card-bg))',
+					'project-hover': 'hsl(var(--project-card-hover))',
+					'text-primary': 'hsl(var(--text-primary))',
+					'text-secondary': 'hsl(var(--text-secondary))',
+					'link': 'hsl(var(--link-color))',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
