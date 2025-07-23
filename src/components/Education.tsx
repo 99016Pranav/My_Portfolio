@@ -6,7 +6,7 @@ const education = [
     institution: "RV College of Engineering, Bangalore",
     degree: "M.Tech in Computer Science",
     period: "Sep 2023 - Aug 2025",
-    grade: "CGPA: 8.3",
+    grade: "CGPA: 8.9",
     status: "Currently Pursuing"
   },
   {

@@ -23,8 +23,8 @@ const experiences = [
   {
     company: "NxtWave Disruptive Technologies",
     role: "SDI",
-    description: "Worked on frontend and backend technologies, enhancing practical skills through real-time collaboration.",
-    type: "Internship"
+    description: "Working full time on frontend and backend technologies, enhancing practical skills through real-time collaboration.",
+    type: "Full Time"
   }
 ]
 
