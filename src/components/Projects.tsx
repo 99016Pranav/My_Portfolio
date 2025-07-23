@@ -7,32 +7,32 @@ const projects = [
     id: 1,
     title: "MERN Stack Ecommerce App",
     description: "An end-to-end e-commerce platform built using the MERN stack. It includes features like product listing, cart, checkout, user authentication, and admin dashboard.",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/99016Pranav/MERN-Stack-Ecommerce-App.git",
+    demo: "https://fusion-ecommerce-app.vercel.app/",
     tech: ["React", "Node.js", "MongoDB", "Express"]
   },
   {
     id: 2,
     title: "React To-Do App",
     description: "A simple and responsive to-do application made with React. It allows users to add, delete, and mark tasks as completed.",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/99016Pranav/react-to-do-app.git",
+    demo: "https://react-cool-todo-app.netlify.app/",
     tech: ["React", "JavaScript", "CSS", "Local Storage"]
   },
   {
     id: 3,
     title: "Task Manager App",
     description: "A full-featured task management app built using React and Node.js. It enables users to manage daily tasks with deadlines, edit options, and task filters.",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/99016Pranav/Task-Manager-App.git",
+    demo: "https://task-manager-ovck.vercel.app/",
     tech: ["React", "Node.js", "Express", "PostgreSQL"]
   },
   {
     id: 4,
     title: "Blog Website",
     description: "A clean and minimal blog website using HTML, CSS, and JS where users can read various blog posts. Optimized for readability and design aesthetics.",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/99016Pranav/blog_website.git",
+    demo: "https://zesty-churros-cc1011.netlify.app/",
     tech: ["HTML", "CSS", "JavaScript", "Responsive Design"]
   }
 ]
